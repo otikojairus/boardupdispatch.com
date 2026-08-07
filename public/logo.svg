@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="budTitle">
+  <title id="budTitle">BoardUpDispatch logo</title>
+  <!-- Brand mark: a secured window framed by board-up planks with a dispatch bolt -->
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="#0B1220"/>
+  <rect x="6.5" y="6.5" width="51" height="51" rx="12" fill="none" stroke="#1E293B" stroke-width="1.6"/>
+  <!-- window frame -->
+  <rect x="16" y="15" width="32" height="34" rx="3" fill="#142033"/>
+  <rect x="19" y="18" width="26" height="28" rx="2" fill="none" stroke="#2E3E5C" stroke-width="1.5"/>
+  <!-- diagonal board-up plank -->
+  <rect x="15" y="38" width="34" height="7" rx="1.5" fill="#C6F24E" transform="rotate(-14 32 41.5)"/>
+  <!-- dispatch bolt -->
+  <path d="M38.5 14.5l-4.5 9 3.2 1.1L35.5 29l8.6-10-3.2-1.1 2-3.4z" fill="#FFFFFF"/>
+</svg>
